@@ -1,0 +1,202 @@
+      /*Naralee's CSS*/
+      *{
+          box-sizing: border-box;
+      }
+        body{
+            background-color: #1F1F1F;
+      }
+        .container{
+            width: 100%;
+            height: 100%;
+            background-color:#1F1F1F;
+        }
+        #top--left--youtube{
+            position: absolute;
+            left: 0px;
+            top: -5px;
+        }
+        a{
+            color: white;
+        }
+        .sidenav{
+            overflow: hidden;
+            width:20%;
+            height: 90%;
+        }
+        .sidenav a{
+            float: left;
+            text-align: left;
+            padding: 20px 20px;
+            font-size: 27px;
+        }
+        .topnav{
+            overflow: hidden;
+            background-color:#808080 ;
+        }
+        .search--bar{
+            position:absolute;
+            top: 10px;
+            left: 800px;
+            background-color: #808080;
+            width: 1120px;
+            height: 70px;
+            padding: 5px;
+            border-radius: 1px;
+            display: flex;
+            justify-content: space-between;
+        
+        }
+        .search--bar .input{
+            width:1000px ;
+            background-color:#1a1919;
+            font-size: 30px;
+            text-align: left;
+            color: white;
+
+        }
+        .sidenav a{
+            text-decoration: none;
+            font-family: sans-serif;
+            width:300px;
+        }
+        .side--icons--img{
+            top: 122px ;
+        }
+        .side--icons--img .bottom{
+            top: 250px;
+            left: 0px;
+        }
+        .microphone{
+            position: absolute;
+            left: 1955px;
+            top: 0px;
+            border: none;
+            padding: 0px;
+        }
+        .videoicon{
+            position: absolute;
+            left: 2350px;
+            top:10px;
+            border: none;
+            padding:0px;
+        }
+        .optionsicon{
+            position: absolute;
+            left: 2470px;
+            top: 10px;
+            padding: 0px;
+            border: none;
+        }
+        .bellicon{
+            position: absolute;
+            left: 2600px;
+            top: 10px;
+            padding: 0px;
+            border: none;
+        }
+        .profileimage{
+            position: absolute;
+            left: 2723px;
+            top: 10px;
+            padding: 0px;
+            border: none;
+        }
+        /*End of Naralee's CSS Beginning of Ethan's CSS*/
+        .topic-bar{
+            margin-left:310px;
+            height: 70px;
+            width: 2400px;
+            margin-top: 100px;
+            position: absolute;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        .topic-bar div{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 16px;
+            height: 25px;
+            width: 125px;
+            color: white;
+            background-color:#A9A9A9;
+            border-radius: 30px;
+            padding: 35px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top:25px;
+        }
+        .topic-bar div:hover{
+            background-color:#D3D3D3;
+        }
+        .videos-section{
+            box-align: right;
+            float: right;
+            display: flex;
+            width: 2200px;
+            height: 1000px;
+            position: absolute;
+            margin-left:500px;
+            margin-top:210px;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            background-color: black;
+        }
+        .videos{
+            flex-wrap:wrap;
+            width: 450px;
+            height: 300px;
+            background-color: blue;
+            border: 1px solid white;
+        }
+        .thumbnail-title{
+            color: white;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            margin-top: 5px;
+            font-size: 24px;
+            text-align: right;
+            font-weight: bold;
+        }
+        .channelname-views{
+            color: grey;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            text-align:left;
+            margin-top: 5px;
+            font-size: 20px;
+        }
+
+        #vid2{
+            background-color: pink;
+        }
+        #vid3{
+            background-color: green;
+        }
+        #vid4{
+            background-color: red;
+        }
+        #vid5{
+            background-color: purple;
+        }
+        #vid6{
+            background-color: yellow;
+        }
+        #vid7{
+            background-color: brown;
+        }
+        #vid8{
+            background-color: orange;
+        }
+         /*Revisions added 3/7 End of Ethan's CSS*/
+        .side--icons--img{
+            top: 122px ;
+        }
+        .side--icons--img .bottom{
+            top: 250px;
+            left: 0px;
+        }
+        
+        
+
+        
+
+    
